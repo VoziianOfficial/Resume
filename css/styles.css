@@ -1,0 +1,182 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #f6f6fa;
+  padding: 40px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.wrapper {
+  background: #fff;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.main-content {
+  padding-left: 88px;
+  padding-top: 80px;
+  padding-right: 40px;
+  padding-bottom: 80px;
+  box-sizing: border-box;
+}
+
+.my-info {
+  width: 702px;
+  height: 154px;
+  margin-bottom: 40px;
+}
+
+.info-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.21;
+  color: #000;
+  margin-bottom: 8px;
+}
+
+.name-title {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 1.22222;
+  color: #000;
+  margin-bottom: 12px;
+}
+
+.info-text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71429;
+  color: #595959;
+}
+
+/* main-project */
+
+.main-project {
+  width: 526px;
+  height: 107px;
+  margin-bottom: 40px;
+}
+
+.project-title {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.22727;
+  color: #000;
+  margin-bottom: 8px;
+}
+
+/* sidebar*/
+
+.sidebar {
+  box-sizing: border-box;
+  background: #e0ebfe;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 370px;
+}
+
+.sidebar-content {
+  box-sizing: border-box;
+  padding: 40px 40px 0 40px;
+}
+
+/* Contacts */
+.contacts-title {
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  margin-bottom: 8px;
+}
+
+.contacts-type {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.71;
+  color: #161d2a;
+  margin-right: 8px;
+}
+
+.contacts-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71429;
+  color: #2979ff;
+}
+
+.contacts-item {
+  margin-bottom: 4px;
+}
+
+.contacts-container {
+  margin-bottom: 40px;
+}
+
+/* Tech Skills */
+
+.tech-skills-container {
+  margin-bottom: 40px;
+}
+
+.tech-kills-title {
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  margin-bottom: 8px;
+}
+
+.tech-skills-list {
+  padding-left: 16px;
+  list-style-type: disc;
+}
+
+.tech-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  color: #161d2a;
+}
+
+/* Soft Skills */
+
+.soft-title {
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  margin-bottom: 8px;
+}
+.soft-list {
+  padding-left: 16px;
+  list-style-type: disc;
+}
+
+.soft-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  color: #161d2a;
+}
